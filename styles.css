@@ -1,0 +1,33 @@
+table, th, td {
+  border: 1px solid black;
+  margin-right:100px;
+  width: 800px;
+  padding: 5px;
+
+}
+.center {
+  text-align: center;
+}
+
+p {
+  width: 800px;
+  padding: 10px;
+  text-align: justify;
+}
+
+.title {
+  text-align: center;
+}
+
+.right {
+  float: right;
+  width: 300px;
+  padding: 10px;
+}
+
+img {
+  border: 2px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 200px;
+}
